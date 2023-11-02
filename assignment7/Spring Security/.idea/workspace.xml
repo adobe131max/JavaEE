@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="4a5f50d8-5cb9-457a-b55e-a39d7653a7e9" name="变更" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/Application.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/common/R.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/controller/CommodityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/controller/SupplierController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/entity/Commodity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/entity/CommodityDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/entity/CommoditySupplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/entity/Role.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/entity/Supplier.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/entity/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/entity/UserDto.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/mapper/CommodityMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/mapper/CommoditySupplierMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/mapper/RoleMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/mapper/SupplierMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/mapper/UserMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/security/AuthenticationController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/security/DbUserDetailService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/security/JwtRequestFilter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/security/JwtTokenUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/security/SecurityConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/service/CommodityService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/service/CommoditySupplierService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/service/SupplierService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/service/UserService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/service/impl/CommodityServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/service/impl/CommoditySupplierServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/service/impl/SupplierServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/whu/edu/service/impl/UserServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/application.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/whu/edu/InitDB.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../notes/Spring Security.md" beforeDir="false" afterPath="$PROJECT_DIR$/../../notes/Spring Security.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/IDEA_Project/apache-maven-3.6.3" />
+        <option name="outputLevel" value="DEBUG" />
+        <option name="userSettingsFile" value="F:\IDEA_Project\apache-maven-3.6.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="11" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="jreName" value="11" />
+  </component>
+  <component name="ProjectId" id="2XZ249GrU0rLPhmRS3snClxQyPT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Application">
+    <configuration name="InitDB.testAddUser" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="Spring Security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="whu.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="whu.edu" />
+      <option name="MAIN_CLASS_NAME" value="whu.edu.InitDB" />
+      <option name="METHOD_NAME" value="testAddUser" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Application" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="Spring Security" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="whu.edu.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="whu.edu.Application" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Application" />
+        <item itemvalue="JUnit.InitDB.testAddUser" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="应用程序级" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="默认任务">
+      <changelist id="4a5f50d8-5cb9-457a-b55e-a39d7653a7e9" name="变更" comment="" />
+      <created>1698822087699</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1698822087699</updated>
+      <workItem from="1698822089004" duration="1000" />
+      <workItem from="1698822302499" duration="7804000" />
+      <workItem from="1698834240303" duration="1260000" />
+      <workItem from="1698837372983" duration="7316000" />
+      <workItem from="1698846218544" duration="1134000" />
+      <workItem from="1698911871502" duration="7421000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <ignored-roots>
+      <path value="$PROJECT_DIR$/.." />
+    </ignored-roots>
+  </component>
+</project>
